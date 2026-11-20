@@ -67,15 +67,15 @@ This confirms that Cockpit starts automatically and remains available after rest
 
 ### Installation
 
-![Cockpit Installation](../../assets/screenshots/cockpit-installation.png)
+![Cockpit Installation](../../assets/cockpit/images/cockpit-installation.png)
 
 ### Service Status
 
-![Cockpit Service Status](../../assets/screenshots/cockpit-status.png)
+![Cockpit Service Status](../../assets/cockpit/images/cockpit-status.png)
 
 ### Dashboard
 
-![Cockpit Dashboard](../../assets/screenshots/cockpit-dashboard.png)
+![Cockpit Dashboard](../../assets/cockpit/images/cockpit-dashboard.png)
 
 ## Result
 
