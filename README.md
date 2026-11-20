@@ -17,7 +17,7 @@ The goal isn't just to get different applications running. It's to understand ho
 | System | Lenovo ThinkCentre M83 |
 | Processor | Intel Core i5-4590 |
 | Memory | 8 GB DDR3 |
-| Storage | Samsung 860 SSD — 500 GB |
+| Storage | Samsung 500 GB |
 | Operating System | Ubuntu Server 26.04 LTS |
 | Network | Gigabit Ethernet |
 
