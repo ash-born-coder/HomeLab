@@ -73,7 +73,7 @@ I validated the configuration before starting the container:
 sudo docker compose -f ~/docker/portainer/compose.yaml config
 ```
 
-![Docker Compose validation](../../assets/portainer/images/portainer-compose-config.png)
+![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-compose-config.png?raw=true)
 
 ### 3. Configure Network Access
 
@@ -118,15 +118,15 @@ I opened the Portainer dashboard from my Windows PC:
 
 After creating the administrator account, I skipped the optional Edge Compute configuration and selected the local Docker environment.
 
-![Portainer administrator setup](../../assets/portainer/images/portainer-setup.png)
+![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-setup.png?raw=true)
 
-![Portainer environment selection](../../assets/portainer/images/portainer-environment.png)
+![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-environment.png?raw=true)
 
 ### 6. Portainer Dashboard
 
 The dashboard successfully detected my local Docker environment.
 
-![Portainer HomeLab dashboard](../../assets/portainer/images/portainer-dashboard.png)
+![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-dashboard.png?raw=true)
 
 | Resource | Detected |
 |---|---|
