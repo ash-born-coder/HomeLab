@@ -116,9 +116,9 @@ I opened the Portainer dashboard from my Windows PC:
 
 `https://192.168.0.111:9443`
 
-After creating the administrator account, I skipped the optional Edge Compute configuration and selected the local Docker environment.
-
 ![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-setup.png?raw=true)
+
+After creating the administrator account, I skipped the optional Edge Compute configuration and selected the local Docker environment.
 
 ![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-environment.png?raw=true)
 
