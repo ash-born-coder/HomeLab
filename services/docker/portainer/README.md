@@ -33,7 +33,7 @@ I verified that the image was available locally using:
 sudo docker images
 ```
 
-![Portainer Docker image](../../assets/portainer/images/portainer-image.png)
+![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-image.png?raw=true)
 
 ### 2. Configure Docker Compose
 
