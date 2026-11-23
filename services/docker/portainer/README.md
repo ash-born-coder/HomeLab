@@ -24,7 +24,7 @@ First, I downloaded the Portainer Community Edition image from Docker Hub.
 sudo docker pull portainer/portainer-ce:lts
 ```
 
-![Portainer image download](../../assets/portainer/images/portainer-pull.png)
+![Portainer image download](https://github.com/ash-born-coder/HomeLab/blob/main/assets/portainer/images/portainer-pull.png?raw=true)
   
 
 I verified that the image was available locally using:
