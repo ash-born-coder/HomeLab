@@ -25,6 +25,7 @@ sudo docker pull portainer/portainer-ce:lts
 ```
 
 ![Portainer image download](../../assets/portainer/images/portainer-pull.png)
+  
 
 I verified that the image was available locally using:
 
