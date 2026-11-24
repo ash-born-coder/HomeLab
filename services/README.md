@@ -19,7 +19,7 @@ Each service is documented individually, covering its implementation, configurat
 
 Node Exporter, Prometheus and Grafana form an integrated monitoring stack, providing live system measurements and historical performance data.
 
-![HomeLab Monitoring Dashboard](../assets/grafana/images/15-system-dashboard.png)
+![HomeLab System Monitoring Dashboard](../../assets/grafana/images/system-dashboard.png)
 
 ### Configuration Files
 
