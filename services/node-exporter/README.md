@@ -8,13 +8,13 @@ Node Exporter was deployed using Docker Compose on an Ubuntu server.
 
 ![Downloading Node Exporter](../../assets/node-exporter/images/node-exporter-pull.png)
 
-![Docker image verification](../../assets/node-exporter/images/02-docker-images.png)
+![Docker image verification](../../assets/node-exporter/images/docker-images.png)
 
 The initial deployment used Docker's bridge networking and read-only access to the host filesystem.
 
-![Initial Docker Compose configuration](../../assets/node-exporter/images/03-node-exporter-compose.png)
+![Initial Docker Compose configuration](../../assets/node-exporter/images/node-exporter-compose.png)
 
-![Node Exporter deployment](../../assets/node-exporter/images/04-node-exporter-deployment.png)
+![Node Exporter deployment](../../assets/node-exporter/images/node-exporter-deployment.png)
 
 ## Configuration
 
@@ -46,7 +46,7 @@ To resolve this, I switched Node Exporter to host networking, enabling access to
 
 ## Verification
 
-![Node Exporter verification](../../assets/node-exporter/images/05-node-exporter-verification.png)
+![Node Exporter verification](../../assets/node-exporter/images/node-exporter-verification.png)
 
 Node Exporter is operational and successfully provides system metrics to [Prometheus](../prometheus/).
 
