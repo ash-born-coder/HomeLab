@@ -38,13 +38,13 @@ The project focuses on learning through practical implementation, troubleshootin
 
 Atlas combines native Linux services and Docker containers, alongside a dedicated Raspberry Pi running Pi-hole.
 
-![HomeLab Architecture](assets/architecture/homelab-architecture.png)
+![HomeLab Architecture](https://github.com/ash-born-coder/HomeLab/blob/main/assets/homelab/images/homelab-architecture.png)
 
 ## What I'm Working Towards
 
 The goal is to develop a centralized **HomeLab Control Center** for infrastructure management, automation, and embedded device integration.
 
-![HomeLab Monitoring Dashboard](assets/grafana/images/15-system-dashboard.png)
+![HomeLab Monitoring Dashboard](https://github.com/ash-born-coder/HomeLab/blob/main/assets/grafana/images/system-dashboard.png)
 
 Future developments include:
 
